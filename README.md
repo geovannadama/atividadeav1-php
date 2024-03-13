@@ -33,3 +33,9 @@ Este é um simples código em HTML e PHP que permite aos usuários verificar se 
 1. No código PHP, verifiquei se o formulário foi enviado ( isset($_POST['numero'])) e se o campo de entrada não está vazio ( !empty($_POST['numero'])).
 
 2. Caso o formulário tenha sido enviado e o campo de entrada não esteja vazio, o código PHP recupera o número do formulário ( $num = $_POST['numero']) e então verifica se é par ou ímpar, semelhante ao código anterior.
+
+ ### Fontes 
+
+1. (https://developer.mozilla.org/en-US/docs/Web/HTML).
+
+2. (https://bruno.art.br/blog/verificar-se-o-numero-e-par-ou-impar-com-php/#:~:text=Para%20identificar%20de%20maneira%20simples,Numero%20Impar%22%3B%20%7D%20%3F%3E).
