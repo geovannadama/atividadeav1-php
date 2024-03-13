@@ -1,8 +1,12 @@
 # atividadeav1-php
 
 ## Verificando Números
+Este é um código que permite a escolha de um número para saber se ele é par ou impar, rendondo, negativo, positivo ou neutro.
 
-Este é um simples código em HTML e PHP que permite aos usuários verificar se um número é par ou ímpar.
+### Verificando números par ou impar
+
+Este é um simples código em PHP que permite aos usuários verificar se um número é par ou impar.
+
 
 ### Como Funciona
 
